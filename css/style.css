@@ -1,0 +1,15 @@
+#clock{
+    font-size: large;
+    font-weight: 800;
+    font-family:fantasy;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+    letter-spacing: 7px;
+    color: aqua;
+}
+body {
+    background: black;
+}
